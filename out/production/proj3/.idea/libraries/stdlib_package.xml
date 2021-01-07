@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="stdlib-package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../library-fa20/javalib/stdlib-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library-fa20/javalib/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library-fa20/javalib/xchart-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../library-fa20/javalib/stdlib-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../library-fa20/javalib/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
